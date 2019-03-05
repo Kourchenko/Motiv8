@@ -1,0 +1,6 @@
+
+{
+    "host": "http://localhost",
+    "port": "3008",
+    "hostAndPort": "http://localhost:3000"
+}
